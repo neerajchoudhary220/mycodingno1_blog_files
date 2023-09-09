@@ -3,6 +3,6 @@ const files={
         laoding:'/js/loading.js'
     },
     pages:{
-        page1:'/page1.html'
+        page1:'/pages/page1.html'
     }
 }
